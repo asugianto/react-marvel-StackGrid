@@ -5,7 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 This is a simple project using boostrapped react-redux & Grid View Library called React Stack Grid
 
 ### `instruction`
-Before doing the following below, please replace [PUBLIC_KEY] & [PRIVATE_KEY] inside constants/marvelAPI.js with the value that provided to your email
+Before doing the following below, please replace [PUBLIC_KEY] & [PRIVATE_KEY] inside constants/marvelAPI.js with the value that provided to your email.
+
 React-Stack Grid is responsive library to display data in pinterest-like manner.
 
 ### `npm install`
